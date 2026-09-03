@@ -64,3 +64,8 @@ Clone the repository and install the dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+```
+<img width="1902" height="871" alt="image" src="https://github.com/user-attachments/assets/122730b1-2dae-428e-9265-4ce5734ff8a8" />
+
+
